@@ -1,0 +1,1 @@
+Sitemap: https://clemenscremer.github.io/autodata/sitemap.xml
